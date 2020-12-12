@@ -38,3 +38,4 @@ if __name__ == "__main__":
     ui = Ui_Dialog()
     ui.show()
     sys.exit(app.exec_())
+    
