@@ -1,4 +1,5 @@
 # DSC_WOW_ATENMAL
+Outbreak prevention and quarantine control system to fight the pandemic.
 
 ## Main Window
 <p align='center'>
